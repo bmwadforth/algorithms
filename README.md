@@ -1,6 +1,6 @@
 # Data structures & algorithms
 
-This repository seeks to provide some examples of common data structures in algorithms.
+This repository seeks to provide some examples of common data structures & algorithms.
 
 ## [Arrays](./arrays)
 - Use when direct access to elements by index is required.
